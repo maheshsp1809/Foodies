@@ -1,2 +1,5 @@
 Video 8 classy
-1.
+1.class components had react life cycle method
+2.useeffect implementatim in classbased componenets was difficult we 
+had to wrote if elese cases for that
+tailwind is way too easy learning curve in thebgining is difficult later on its way too easy
