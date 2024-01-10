@@ -5,3 +5,4 @@ had to wrote if elese cases for that
 tailwind is way too easy learning curve in thebgining is difficult later on its way too easy
 
 DataStore
+for testing u need to set up bael and few configurations
